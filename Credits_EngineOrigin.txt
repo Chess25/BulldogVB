@@ -1,4 +1,4 @@
-BulldogVB is a chess program (32 bit Windows) that communicates with a chess GUI via the winboard protocol (or UCI since V3.6) and can be used with  MsOffice-VBA (EXCEL/WORD) also.
+BulldogVB is a chess program (32 bit Windows) that communicates with a chess GUI via the winboard protocol. and can be used with  MsOffice-VBA (EXCEL/WORD) also.
 
 Features: support for up to 8 cores. Support for Syzygy tablebases (for first 3 plies only).
 
@@ -56,7 +56,7 @@ Raimund Heid (Protector sources):  Material draw logic
 
 
 
-Norbert Raimund Leisner: Logo file
+AMN3I: Logo file
 
 
 
