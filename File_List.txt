@@ -1,0 +1,103 @@
+==================================
+
+= File_List.txt
+
+= for BulldogVB V1.0 AMN3I
+
+==================================
+
+
+
+BookEdit.exe :  Opening book editor for *.opi,*.opn file. Sources see engine LarsenVB at "xoomer.virgilio.it/ludormio/download.htm"
+
+
+
+CB_THREAD0.TXT: generate if multiple cores are used. Used for stopping helper threads if this file is no longer locked by main thread.
+
+
+
+BulldogVB.exe: Win32 winboard chess engine => please use this optimized native x86  code file for winboard compatible GUIs like ARENA 
+
+
+
+BulldogVB.vbp: Visual Basic 6 project file for winboard engine. with compile optmization setting (no array bound checks,...)
+
+
+
+BulldogVB_Book.opi
+
+BulldogVB_Book.opn: Opening book (can be disabled in ChessbasVB.INI file)
+
+
+
+BulldogVB_debug.exe: debug version  for direct run without winboard 
+
+BulldogVB_debug.vbp: Visual Basic 6 project file for winboard engine.Debug version without compile optmization and debug form
+
+
+
+BulldogVB_Language_DE.txt:  german translation text file for Excel/Word GUI
+
+
+
+BulldogVB_PCode.exe:   Win32 winboard chess engine - NOT native x86 code but about 15 times slower pseudo code (interpreted at runtime)
+
+                                           This is comparable to the MSOffice VBA engine pseudo code (office compilation option is a syntax check only)
+
+  BulldogVB_PCode.vbp: Visual Basic 6 project file for winboard engine. Pseudo-Code compile version comparable to Office VBA speed.
+
+
+
+BulldogVB_Notes.txt: notes about this engine
+
+
+
+BulldogVB_Source_FormattedHTML.html: Formatted VB source code in one HTML file (for quick reference and interested readers)
+
+
+
+BulldogVB_Source_FormattedRTF.RTF: Formatted VB source code in one RTF file (for quick reference and interested readers)
+
+
+
+BulldogVB_Source_PlainText.txt: VB source code in one plain text file (for quick reference and interested readers)
+
+
+
+BulldogVBA_Screenshot.jpg: Picture of the EXCEL ChessBrainVB GUI (ExcelChessBrainX.xlsm)
+
+
+
+Copying.txt:  GNU GENERAL PUBLIC LICENSE V3
+
+
+
+ExcelBulldogVBX.xlsm:    EXCEL BulldogVB GUI. ALT+F8 to run auto_open macro (enable macros first)
+
+
+
+Fathom.exe:  helper exe for access to endgame tablebases, see source in Github: https://github.com/basil00/Fathom
+
+
+
+InBetween.exe:  UCI interface needed for Fritz/Chessbase GUI
+
+
+
+VB_Technical_Notes.txt: Technical hints about Visual Basic programming
+
+
+
+Wb2Uci.exe: select this file to run this winboard enginge with UCI protocol
+
+Wb2Uci.eng: definition file for Wb2Uci.exe
+
+Wb2Uci.html: help file for Wb2Uci.eng
+
+
+
+WordChessBrainX.docm:   WORD BulldogVB GUI. ALT+F8 to run autoopen macro (enable macros first)
+
+
+
+==================================
