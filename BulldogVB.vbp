@@ -29,7 +29,6 @@ Module=TimeBas; Modules\Time.bas
 Form=Forms\DebugMain.frm
 
 Module=DebugBas; Modules\Debug.bas
-
 RelatedDoc=ChessBrainVB.ini
 
 Class=clsHashMap; Modules\HashMap.cls
@@ -70,7 +69,7 @@ VersionComments="BulldogVB based on LarsenVB by Luca Dormio and Faile by Adrien 
 
 VersionCompanyName="-"
 
-VersionFileDescription="VB1 chess engine"
+VersionFileDescription="VB6 chess engine"
 
 VersionLegalCopyright="AMN3I (2018)"
 
