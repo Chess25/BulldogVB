@@ -1,4 +1,4 @@
-# Bulldog1
+# BulldogVB
 Xboard chess engine
 
 A project by:AMN3I
