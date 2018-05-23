@@ -29,7 +29,7 @@ Module=TimeBas; Modules\Time.bas
 Form=Forms\DebugMain.frm
 
 Module=DebugBas; Modules\Debug.bas
-RelatedDoc=ChessBrainVB.ini
+RelatedDoc=BulldogVB.ini
 
 Class=clsHashMap; Modules\HashMap.cls
 
