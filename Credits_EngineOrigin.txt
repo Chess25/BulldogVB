@@ -35,8 +35,7 @@ For full details, read the copy of the GPL found in the file named Copying.txt.
 This chess engine is based on the source of the engine "LarsenVB" by Luca Dormio (http://xoomer.virgilio.it/ludormio/download.htm).
 
 LarsenVB was inspired by "Faile 0.6 by" Adrien M. Regimbald, which was also the base for the engine "Sjeng".
-
-I want to thank Luca Dormio for his permission to use his LarsenVB source. 
+ 
 
 
 
@@ -56,7 +55,6 @@ Raimund Heid (Protector sources):  Material draw logic
 
 
 
-AMN3I: Logo file
 
 
 
